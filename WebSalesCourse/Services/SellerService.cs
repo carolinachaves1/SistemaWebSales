@@ -20,5 +20,7 @@ namespace WebSalesCourse.Services
         {
             return _context.Seller.ToList();
         }
+
+
     }
 }
